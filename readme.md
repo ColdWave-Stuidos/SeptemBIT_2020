@@ -23,4 +23,4 @@ You can find Saultoons at:
 - [Linktree](https://linktr.ee/saultoons)
 
 # My Submission
-<img width="300px" src="Final_Designs/2020_Submission.png>
+<img width="300px" src="Final_Designs/2020_Submission.png">
