@@ -23,4 +23,6 @@ You can find Saultoons at:
 - [Linktree](https://linktr.ee/saultoons)
 
 # My Submission
-<img align="center" width="600px" src="Final_Designs/2020_Submission.png">
+<p align=center>
+    <img width="600px" src="Final_Designs/2020_Submission.png">
+</p>
