@@ -24,5 +24,5 @@ You can find Saultoons at:
 
 # My Submission
 <p align=center>
-    <img width="600px" src="Final_Designs/2020_Submission.png">
+    <img width="600px" src="Final_Designs/2020_Submission.png"> 
 </p>
